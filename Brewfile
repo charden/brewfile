@@ -67,7 +67,6 @@ tap homebrew/versions
 brew ruby22
 
 tap jubatus/jubatus
-brew jubatus-core
 brew jubatus-mpio
 brew jubatus-msgpack-rpc
 brew msgpack059
@@ -171,6 +170,7 @@ brew pcre
 brew pixman
 brew pkg-config
 brew proj
+brew pyexiv2
 brew pyqt
 brew python
 brew qscintilla2
