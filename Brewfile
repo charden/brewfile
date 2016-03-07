@@ -27,7 +27,6 @@ cask genymotion
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask hoster
 cask hub
 cask iterm2
 cask java
@@ -186,7 +185,7 @@ brew scons
 brew sfcgal
 brew sip
 brew spatialindex
-brew sqlite
+brew sqlite --with-functions
 brew ssh-copy-id
 brew subversion
 brew tmux
@@ -210,6 +209,9 @@ appstore 472226235 LanScan
 appstore 451444120 Memory Clean
 appstore 748212890 Memory Monitor
 appstore 715768417 Microsoft Remote Desktop
+appstore 428834068 Night Owl
+appstore 409203825 Numbers
+appstore 409201541 Pages
 appstore 407963104 Pixelmator
 appstore 568494494 Pocket
 appstore 948415170 Pushbullet
@@ -218,7 +220,6 @@ appstore 425955336 Skitch
 appstore 425424353 The Unarchiver
 appstore 497799835 Xcode
 appstore 961651406 Xliffie
-appstore 428834068 YoruFukurou
 appstore 492068728 Yummy FTP
 appstore 865500966 feedly
 appstore 408981381 iPhoto
