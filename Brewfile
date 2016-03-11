@@ -208,7 +208,6 @@ appstore 539883307 LINE
 appstore 472226235 LanScan
 appstore 451444120 Memory Clean
 appstore 748212890 Memory Monitor
-appstore 715768417 Microsoft Remote Desktop
 appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 407963104 Pixelmator
