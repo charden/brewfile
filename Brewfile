@@ -95,7 +95,7 @@ brew boost
 brew cairo
 brew cgal
 brew composer
-brew curl --with-openssl
+brew curl --with-openssl --with-openssl
 brew dnsmasq
 brew docker
 brew docker-compose
