@@ -93,9 +93,10 @@ brew autoconf
 brew automake
 brew boost
 brew cairo
+brew carthage
 brew cgal
 brew composer
-brew curl --with-openssl --with-openssl
+brew curl --with-openssl
 brew dnsmasq
 brew docker
 brew docker-compose
