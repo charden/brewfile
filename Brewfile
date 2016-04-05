@@ -50,42 +50,7 @@ brew dinghy
 
 tap homebrew/binary
 
-tap homebrew/dupes
-
-tap homebrew/php
-brew php56-mcrypt
-brew php56
-
-tap homebrew/python
-brew numpy
-
-tap homebrew/science
-brew opencv
-
-tap homebrew/versions
-brew ruby22
-
-tap jubatus/jubatus
-brew jubatus-mpio
-brew jubatus-msgpack-rpc
-brew msgpack059
-
-tap motemen/ghq
-brew ghq
-
-tap osgeo/osgeo4mac
-brew gdal-grass64
-brew grass-64
-brew pyspatialite
-brew qgis-28
-
-tap peco/peco
-brew peco
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew android-sdk
 brew ant
 brew atk
@@ -95,10 +60,8 @@ brew boost
 brew cairo
 brew carthage
 brew cgal
-brew composer
 brew curl --with-openssl
 brew dnsmasq
-brew docker
 brew docker-compose
 brew docker-machine
 brew eigen
@@ -116,13 +79,11 @@ brew gdbm
 brew gdk-pixbuf
 brew geos
 brew gettext
+brew ghq
 brew gibo
-brew giflib
-brew git
 brew git-flow
-brew glib
+brew git
 brew gmp
-brew gnu-tar
 brew go
 brew gobject-introspection
 brew gpp
@@ -149,24 +110,20 @@ brew libpng
 brew libspatialite
 brew libtiff
 brew libtool
-brew libusb
 brew libxml2
 brew libyaml
 brew log4cxx
 brew logstash
-brew lzlib
-brew matplotlib
 brew mcrypt
 brew mhash
-brew mpfr
 brew nkf
 brew nmap
 brew node
 brew oniguruma
-brew openexr
 brew openssl
 brew pango
 brew pcre
+brew peco
 brew pixman
 brew pkg-config
 brew proj
@@ -176,12 +133,11 @@ brew python
 brew qscintilla2
 brew qt
 brew qwt
-brew qwtpolar
 brew rbenv
 brew readline
 brew redis
-brew ruby
 brew ruby-build
+brew ruby
 brew scons
 brew sfcgal
 brew sip
@@ -199,8 +155,54 @@ brew wget
 brew wxmac
 brew wxpython
 brew xz
-brew zlib
 brew zsh --without-etcdir
+
+tap homebrew/dupes
+
+tap homebrew/php
+brew php56-mcrypt
+brew php56
+
+tap homebrew/python
+brew numpy
+
+tap homebrew/science
+brew opencv
+
+tap homebrew/versions
+brew ruby22
+
+tap jubatus/jubatus
+brew jubatus-mpio
+brew jubatus-msgpack-rpc
+brew msgpack059
+
+tap motemen/ghq
+
+tap osgeo/osgeo4mac
+brew gdal-grass64
+brew grass-64
+brew pyspatialite
+brew qgis-28
+
+tap peco/peco
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew composer
+brew docker
+brew giflib
+brew glib
+brew gnu-tar
+brew libusb
+brew lzlib
+brew matplotlib
+brew mpfr
+brew openexr
+brew qwtpolar
+brew zlib
 
 # App Store applications
 appstore 411246225 Caffeine
@@ -209,7 +211,6 @@ appstore 539883307 LINE
 appstore 472226235 LanScan
 appstore 451444120 Memory Clean
 appstore 748212890 Memory Monitor
-appstore 715768417 MicrosoftRemoteDesktop
 appstore 428834068 Night Owl
 appstore 409203825 Numbers
 appstore 409201541 Pages
