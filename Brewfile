@@ -216,7 +216,6 @@ appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 407963104 Pixelmator
 appstore 568494494 Pocket
-appstore 948415170 Pushbullet
 appstore 1007457278 Realm Browser
 appstore 425955336 Skitch
 appstore 425424353 The Unarchiver
