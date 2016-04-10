@@ -63,6 +63,7 @@ brew cgal
 brew curl --with-openssl
 brew dnsmasq
 brew docker-compose
+brew docker-machine-nfs
 brew docker-machine
 brew eigen
 brew embulk
