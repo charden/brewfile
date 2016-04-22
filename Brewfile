@@ -205,6 +205,11 @@ brew openexr
 brew qwtpolar
 brew zlib
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (4 files, 7.9K)
+
 # App Store applications
 appstore 411246225 Caffeine
 appstore 409183694 Keynote
