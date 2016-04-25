@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-brew brew-cask
 cask adobe-reader
 cask alfred
 cask android-studio
@@ -119,7 +118,7 @@ brew mcrypt
 brew mhash
 brew nkf
 brew nmap
-brew node
+brew node --with-full-icu
 brew oniguruma
 brew openssl
 brew pango
@@ -204,11 +203,6 @@ brew mpfr
 brew openexr
 brew qwtpolar
 brew zlib
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Uninstalling brew-cask... (4 files, 7.9K)
 
 # App Store applications
 appstore 411246225 Caffeine
