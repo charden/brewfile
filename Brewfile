@@ -118,7 +118,7 @@ brew mcrypt
 brew mhash
 brew nkf
 brew nmap
-brew node --with-full-icu
+brew node
 brew oniguruma
 brew openssl
 brew pango
