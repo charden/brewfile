@@ -118,7 +118,7 @@ brew mcrypt
 brew mhash
 brew nkf
 brew nmap
-brew node
+brew node --with-full-icu
 brew oniguruma
 brew openssl
 brew pango
@@ -183,7 +183,6 @@ tap osgeo/osgeo4mac
 brew gdal-grass64
 brew grass-64
 brew pyspatialite
-brew qgis-28
 
 tap peco/peco
 
