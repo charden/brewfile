@@ -59,7 +59,7 @@ brew boost
 brew cairo
 brew carthage
 brew cgal
-brew curl --with-openssl
+brew curl
 brew dnsmasq
 brew docker-compose
 brew docker-machine-nfs
@@ -87,7 +87,7 @@ brew gmp
 brew go
 brew gobject-introspection
 brew gpp
-brew gpsbabel --with-libusb
+brew gpsbabel
 brew gradle
 brew gsl
 brew gtk+
@@ -155,7 +155,7 @@ brew wget
 brew wxmac
 brew wxpython
 brew xz
-brew zsh --without-etcdir
+brew zsh
 
 tap homebrew/dupes
 
