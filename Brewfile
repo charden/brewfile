@@ -146,6 +146,7 @@ brew qwtpolar
 brew rbenv
 brew readline
 brew redis
+brew rswift
 brew ruby-build
 brew ruby
 brew scons
