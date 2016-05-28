@@ -19,7 +19,6 @@ cask dash
 cask docker-compose
 cask docker
 cask dockertoolbox
-cask dropbox
 cask firefox
 cask gdal-framework
 cask genymotion
@@ -104,6 +103,7 @@ brew ilmbase
 brew imagemagick
 brew ios-sim
 brew isl
+brew jenkins
 brew jpeg
 brew json-c
 brew libevent
