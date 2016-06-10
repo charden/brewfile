@@ -98,12 +98,12 @@ brew gtk+
 brew harfbuzz
 brew heroku
 brew hicolor-icon-theme
+brew highlight
 brew icu4c
 brew ilmbase
 brew imagemagick
 brew ios-sim
 brew isl
-brew jenkins
 brew jpeg
 brew json-c
 brew libevent
@@ -120,6 +120,7 @@ brew libxml2
 brew libyaml
 brew log4cxx
 brew logstash
+brew lua
 brew lzlib
 brew mcrypt
 brew mhash
