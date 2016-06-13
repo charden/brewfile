@@ -5,6 +5,43 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask adobe-reader
+cask alfred
+cask android-studio
+cask appcleaner
+cask atom
+cask bettertouchtool
+cask boot2docker
+cask chefdk
+cask clamxav
+cask clipmenu
+cask dash
+cask docker-compose
+cask docker
+cask dockertoolbox
+cask firefox
+cask gdal-framework
+cask genymotion
+cask google-chrome
+cask google-drive
+cask google-japanese-ime
+cask hub
+cask iterm2
+cask java
+cask josm
+cask libreoffice
+cask mou
+cask onyx
+cask r
+cask slack
+cask smcfancontrol
+cask sourcetree
+cask sublime-text
+cask thunderbird
+cask vagrant
+cask virtualbox
+cask xbench
+cask xquartz
 
 tap codekitchen/dinghy
 brew dinghy
@@ -167,6 +204,18 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask   --caskroom=/opt/homebrew-cask/Caskroom
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Warning: The default Caskroom location has moved to /usr/local/Caskroom.
+#cask 
+#cask Please migrate your Casks to the new location, or if you would like to keep your
+#cask Caskroom at /opt/homebrew-cask/Caskroom, add the following to your HOMEBREW_CASK_OPTS:
+#cask 
 
 # App Store applications
 appstore 411246225 Caffeine
