@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask adobe-reader
 cask alfred
 cask android-studio
 cask appcleaner
@@ -54,6 +53,7 @@ brew ant
 brew atk
 brew autoconf
 brew automake
+brew boost-python
 brew boost
 brew cairo
 brew carthage
@@ -67,6 +67,7 @@ brew docker-machine
 brew docker
 brew eigen
 brew embulk
+brew exiv2
 brew expat
 brew fcgi
 brew fftw
@@ -134,6 +135,7 @@ brew openssl
 brew pango
 brew pcre
 brew peco
+brew perl
 brew pixman
 brew pkg-config
 brew proj
@@ -204,18 +206,6 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
-
-# Cask applications
-cask   --caskroom=/opt/homebrew-cask/Caskroom
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Warning: The default Caskroom location has moved to /usr/local/Caskroom.
-#cask 
-#cask Please migrate your Casks to the new location, or if you would like to keep your
-#cask Caskroom at /opt/homebrew-cask/Caskroom, add the following to your HOMEBREW_CASK_OPTS:
-#cask 
 
 # App Store applications
 appstore 411246225 Caffeine
