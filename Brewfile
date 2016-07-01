@@ -39,6 +39,7 @@ cask sublime-text
 cask thunderbird
 cask vagrant
 cask virtualbox
+cask xamarin
 cask xbench
 cask xquartz
 
