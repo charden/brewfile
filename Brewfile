@@ -107,6 +107,7 @@ brew imagemagick
 brew ios-sim
 brew isl
 brew jpeg
+brew jpegoptim
 brew json-c
 brew libevent
 brew libffi
@@ -133,12 +134,14 @@ brew node
 brew oniguruma
 brew openexr
 brew openssl
+brew optipng
 brew pango
 brew pcre
 brew peco
 brew perl
 brew pixman
 brew pkg-config
+brew pngquant
 brew proj
 brew pyexiv2
 brew pyqt
