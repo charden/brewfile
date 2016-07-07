@@ -130,7 +130,7 @@ brew mhash
 brew mpfr
 brew nkf
 brew nmap
-brew node
+brew node --with-full-icu
 brew oniguruma
 brew openexr
 brew openssl
