@@ -37,6 +37,7 @@ cask smcfancontrol
 cask sourcetree
 cask sublime-text
 cask thunderbird
+cask tuntap
 cask vagrant
 cask virtualbox
 cask xamarin
