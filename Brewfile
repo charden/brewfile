@@ -182,7 +182,6 @@ brew zlib
 
 tap homebrew/php
 brew composer
-brew php56-mcrypt
 brew php70
 
 tap homebrew/python
