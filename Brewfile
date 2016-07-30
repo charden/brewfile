@@ -17,7 +17,6 @@ cask clipmenu
 cask dash
 cask docker-compose
 cask docker
-cask dockertoolbox
 cask firefox
 cask gdal-framework
 cask genymotion
@@ -210,6 +209,11 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask dockertoolbox (!)
 
 # App Store applications
 appstore 411246225 Caffeine
