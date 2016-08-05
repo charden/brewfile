@@ -15,8 +15,8 @@ cask chefdk
 cask clamxav
 cask clipmenu
 cask dash
-cask docker-compose
 cask docker
+cask dropbox
 cask firefox
 cask gdal-framework
 cask genymotion
@@ -213,6 +213,7 @@ brew brew-file
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
+#cask docker-compose (!)
 #cask dockertoolbox (!)
 
 # App Store applications
