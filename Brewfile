@@ -23,14 +23,12 @@ cask genymotion
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask hub
 cask iterm2
 cask java
 cask josm
 cask libreoffice
 cask mou
 cask onyx
-cask r
 cask slack
 cask smcfancontrol
 cask sourcetree
@@ -101,6 +99,7 @@ brew harfbuzz
 brew heroku
 brew hicolor-icon-theme
 brew highlight
+brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -189,6 +188,7 @@ brew numpy
 
 tap homebrew/science
 brew opencv
+brew r
 
 tap homebrew/versions
 brew ruby22
@@ -215,6 +215,8 @@ brew brew-file
 
 #cask docker-compose (!)
 #cask dockertoolbox (!)
+#cask hub (!)
+#cask r (!)
 
 # App Store applications
 appstore 411246225 Caffeine
