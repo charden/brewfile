@@ -144,9 +144,12 @@ brew pngquant
 brew proj
 brew pyexiv2
 brew pyqt
+brew pyqt5
 brew python
+brew python3
 brew qscintilla2
 brew qt
+brew qt5
 brew qwt
 brew qwtpolar
 brew rbenv
@@ -157,7 +160,7 @@ brew ruby-build
 brew ruby
 brew scons
 brew sfcgal
-brew sip
+brew sip --with-python3
 brew spatialindex
 brew sqlite
 brew ssh-copy-id
