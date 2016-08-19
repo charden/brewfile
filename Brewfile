@@ -98,7 +98,6 @@ brew harfbuzz
 brew heroku
 brew hicolor-icon-theme
 brew highlight
-brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
