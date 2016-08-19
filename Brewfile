@@ -52,18 +52,18 @@ brew ant
 brew atk
 brew autoconf
 brew automake
-brew boost-python
 brew boost
+brew boost-python
 brew cairo
 brew carthage
 brew cgal
 brew clang-format
 brew curl
 brew dnsmasq
-brew docker-compose
-brew docker-machine-nfs
-brew docker-machine
 brew docker
+brew docker-compose
+brew docker-machine
+brew docker-machine-nfs
 brew eigen
 brew embulk
 brew exiv2
@@ -83,8 +83,8 @@ brew gettext
 brew ghq
 brew gibo
 brew giflib
-brew git-flow
 brew git
+brew git-flow
 brew glib
 brew gmp
 brew gnu-tar
@@ -156,8 +156,8 @@ brew rbenv
 brew readline
 brew redis
 brew rswift
-brew ruby-build
 brew ruby
+brew ruby-build
 brew scons
 brew sfcgal
 brew sip --with-python3
