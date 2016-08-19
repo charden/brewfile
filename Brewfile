@@ -75,7 +75,6 @@ brew fontconfig
 brew freetype
 brew freexl
 brew gcc
-brew gdal
 brew gdbm
 brew gdk-pixbuf
 brew geos
@@ -191,7 +190,6 @@ brew numpy
 
 tap homebrew/science
 brew opencv
-brew r
 
 tap homebrew/versions
 brew ruby22
@@ -202,11 +200,6 @@ brew jubatus-msgpack-rpc
 brew msgpack059
 
 tap motemen/ghq
-
-tap osgeo/osgeo4mac
-brew gdal-grass64
-brew grass-64
-brew pyspatialite
 
 tap peco/peco
 
