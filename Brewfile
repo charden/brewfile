@@ -61,9 +61,6 @@ brew clang-format
 brew curl
 brew dnsmasq
 brew docker
-brew docker-compose
-brew docker-machine
-brew docker-machine-nfs
 brew eigen
 brew embulk
 brew exiv2
@@ -103,6 +100,7 @@ brew ilmbase
 brew imagemagick
 brew ios-sim
 brew isl
+brew jenkins
 brew jpeg
 brew jpegoptim
 brew json-c
@@ -189,6 +187,8 @@ brew numpy
 
 tap homebrew/science
 brew opencv
+
+tap homebrew/services
 
 tap homebrew/versions
 brew ruby22
