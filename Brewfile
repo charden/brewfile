@@ -15,7 +15,6 @@ cask chefdk
 cask clamxav
 cask clipmenu
 cask dash
-cask docker
 cask dropbox
 cask firefox
 cask gdal-framework
@@ -203,14 +202,6 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask docker-compose (!)
-#cask dockertoolbox (!)
-#cask hub (!)
-#cask r (!)
 
 # App Store applications
 appstore 411246225 Caffeine
