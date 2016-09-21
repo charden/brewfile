@@ -98,7 +98,6 @@ brew ilmbase
 brew imagemagick
 brew ios-sim
 brew isl
-brew jenkins
 brew jpeg
 brew jpegoptim
 brew json-c
