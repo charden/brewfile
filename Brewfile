@@ -217,6 +217,7 @@ appstore 568494494 Pocket
 appstore 1007457278 Realm Browser
 appstore 425955336 Skitch
 appstore 425424353 The Unarchiver
+appstore 497799835 Xcode
 appstore 961651406 Xliffie
 appstore 492068728 Yummy FTP
 appstore 865500966 feedly
