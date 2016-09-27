@@ -202,23 +202,23 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 411246225 Caffeine
-appstore 409183694 Keynote
-appstore 539883307 LINE
-appstore 472226235 LanScan
-appstore 451444120 Memory Clean
-appstore 748212890 Memory Monitor
-appstore 715768417 Microsoft Remote Desktop
-appstore 428834068 Night Owl
-appstore 409203825 Numbers
-appstore 409201541 Pages
-appstore 407963104 Pixelmator
-appstore 568494494 Pocket
-appstore 1007457278 Realm Browser
-appstore 425955336 Skitch
-appstore 425424353 The Unarchiver
-appstore 497799835 Xcode
-appstore 961651406 Xliffie
-appstore 492068728 Yummy FTP
-appstore 865500966 feedly
-appstore 408981381 iPhoto
+appstore 411246225 Caffeine (1.1.1)
+appstore 409183694 Keynote (7.0)
+appstore 539883307 LINE (4.9.0)
+appstore 472226235 LanScan (4.2)
+appstore 451444120 Memory Clean (6.2)
+appstore 748212890 Memory Monitor (2.3)
+appstore 715768417 Microsoft Remote Desktop (8.0.27181)
+appstore 428834068 Night Owl (2.85)
+appstore 409203825 Numbers (4.0)
+appstore 409201541 Pages (6.0)
+appstore 407963104 Pixelmator (3.5.1)
+appstore 568494494 Pocket (1.6.2)
+appstore 1007457278 Realm Browser (1.0.2)
+appstore 425955336 Skitch (2.7.8)
+appstore 425424353 The Unarchiver (3.11.1)
+appstore 497799835 Xcode (8.0)
+appstore 961651406 Xliffie (1.3.2)
+appstore 492068728 Yummy FTP (1.11.10)
+appstore 865500966 feedly (1.1)
+appstore 408981381 iPhoto (9.6.1)
