@@ -210,6 +210,7 @@ brew brew-file
 
 # App Store applications
 appstore 411246225 Caffeine (1.1.1)
+appstore 412448059 ForkLift (2.6.6)
 appstore 409183694 Keynote (7.0)
 appstore 539883307 LINE (4.9.0)
 appstore 472226235 LanScan (4.2)
