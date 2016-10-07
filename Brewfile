@@ -47,6 +47,8 @@ tap homebrew/binary
 tap homebrew/core
 brew android-sdk
 brew ant
+brew apr
+brew apr-util
 brew atk
 brew autoconf
 brew automake
@@ -111,6 +113,7 @@ brew libtiff
 brew libtool
 brew libusb
 brew libxml2
+brew libxslt
 brew libyaml
 brew log4cxx
 brew logstash
@@ -152,7 +155,10 @@ brew ruby
 brew ruby-build
 brew scons
 brew sfcgal
+brew shared-mime-info
 brew sip --with-python3
+brew sonar-runner
+brew sonarqube
 brew spatialindex
 brew sqlite
 brew ssh-copy-id
@@ -171,6 +177,7 @@ brew xz
 brew zsh --without-etcdir
 
 tap homebrew/dupes
+brew libiconv
 brew zlib
 
 tap homebrew/php
@@ -214,7 +221,7 @@ appstore 409203825 Numbers (4.0)
 appstore 409201541 Pages (6.0)
 appstore 407963104 Pixelmator (3.5.1)
 appstore 568494494 Pocket (1.6.2)
-appstore 1007457278 Realm Browser (1.0.2)
+appstore 1007457278 Realm Browser (2.0.0)
 appstore 425955336 Skitch (2.7.8)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.0)
