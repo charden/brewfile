@@ -44,6 +44,9 @@ brew dinghy
 
 tap homebrew/binary
 
+tap homebrew/boneyard
+brew qwtpolar
+
 tap homebrew/core
 brew android-sdk
 brew ant
@@ -146,7 +149,6 @@ brew qscintilla2
 brew qt
 brew qt5
 brew qwt
-brew qwtpolar
 brew rbenv
 brew readline
 brew redis
@@ -167,6 +169,7 @@ brew swiftlint
 brew tmux
 brew unfs3
 brew unixodbc
+brew utf8proc
 brew vim
 brew watch
 brew watchman
@@ -222,7 +225,7 @@ appstore 409203825 Numbers (4.0)
 appstore 409201541 Pages (6.0)
 appstore 407963104 Pixelmator (3.5.1)
 appstore 568494494 Pocket (1.6.2)
-appstore 1007457278 Realm Browser (2.0.0)
+appstore 1007457278 Realm Browser (2.0.1)
 appstore 425955336 Skitch (2.7.8)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.0)
