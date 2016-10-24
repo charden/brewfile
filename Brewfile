@@ -18,6 +18,7 @@ cask dash
 cask firefox
 cask gdal-framework
 cask genymotion
+cask gisto
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
@@ -46,6 +47,7 @@ tap homebrew/binary
 
 tap homebrew/boneyard
 brew qwtpolar
+brew sonar-runner
 
 tap homebrew/core
 brew android-sdk
@@ -159,7 +161,6 @@ brew scons
 brew sfcgal
 brew shared-mime-info
 brew sip --with-python3
-brew sonar-runner
 brew sonarqube
 brew spatialindex
 brew sqlite
