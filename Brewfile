@@ -28,6 +28,7 @@ cask josm
 cask libreoffice
 cask mou
 cask onyx
+cask skype
 cask slack
 cask smcfancontrol
 cask sourcetree
