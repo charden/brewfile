@@ -214,6 +214,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 417375580 BetterSnapTool (1.7)
 appstore 411246225 Caffeine (1.1.1)
 appstore 412448059 ForkLift (2.6.6)
 appstore 409183694 Keynote (7.0.5)
