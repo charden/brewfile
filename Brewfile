@@ -37,6 +37,7 @@ cask thunderbird
 cask tuntap
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask xamarin
 cask xbench
 cask xquartz
@@ -188,6 +189,7 @@ brew zlib
 tap homebrew/php
 brew composer
 brew php70
+brew phplint
 
 tap homebrew/python
 brew matplotlib
