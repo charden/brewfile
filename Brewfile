@@ -15,6 +15,7 @@ cask chefdk
 cask clamxav
 cask clipmenu
 cask dash
+cask dropbox
 cask firefox
 cask gdal-framework
 cask genymotion
