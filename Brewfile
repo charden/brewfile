@@ -171,6 +171,7 @@ brew ssh-copy-id
 brew subversion
 brew swiftlint
 brew tmux
+brew tree
 brew unfs3
 brew unixodbc
 brew utf8proc
