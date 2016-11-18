@@ -15,7 +15,6 @@ cask chefdk
 cask clamxav
 cask clipmenu
 cask dash
-cask dropbox
 cask firefox
 cask gdal-framework
 cask genymotion
@@ -49,6 +48,7 @@ brew dinghy
 tap homebrew/binary
 
 tap homebrew/boneyard
+brew pyqt
 brew qwtpolar
 brew sonar-runner
 
@@ -146,7 +146,6 @@ brew pkg-config
 brew pngquant
 brew proj
 brew pyexiv2
-brew pyqt
 brew pyqt5
 brew python
 brew python3
