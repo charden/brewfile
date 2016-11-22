@@ -13,6 +13,7 @@ cask bettertouchtool
 cask boot2docker
 cask clipmenu
 cask dash
+cask dropbox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
@@ -24,6 +25,7 @@ cask sourcetree
 cask sublime-text
 cask thunderbird
 cask virtualbox
+cask xquartz
 
 tap codekitchen/dinghy
 
@@ -55,6 +57,7 @@ brew fcgi
 brew fftw
 brew flow
 brew fontconfig
+brew fontforge
 brew freetype
 brew freexl
 brew gcc
@@ -183,6 +186,9 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
+
+tap sanemat/font
+brew ricty
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
