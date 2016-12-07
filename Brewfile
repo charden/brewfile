@@ -46,6 +46,7 @@ brew autoconf
 brew automake
 brew boost
 brew boost-python
+brew cabal-install
 brew cairo
 brew carthage
 brew cgal
@@ -68,6 +69,7 @@ brew gdbm
 brew gdk-pixbuf
 brew geos
 brew gettext
+brew ghc
 brew gibo
 brew giflib
 brew git
@@ -78,7 +80,6 @@ brew gnu-tar
 brew go
 brew gobject-introspection
 brew gpp
-brew gpsbabel --with-libusb
 brew gradle
 brew gsl
 brew gtk+
@@ -120,6 +121,7 @@ brew oniguruma
 brew openexr
 brew openssl
 brew optipng
+brew pandoc
 brew pango
 brew pcre
 brew peco
@@ -129,12 +131,8 @@ brew pkg-config
 brew pngquant
 brew proj
 brew pyexiv2
-brew pyqt5
 brew python
 brew python3
-brew qscintilla2
-brew qt5
-brew qwt
 brew rbenv
 brew readline
 brew redis
