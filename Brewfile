@@ -21,6 +21,7 @@ cask iterm2
 cask java
 cask onyx
 cask osxfuse
+cask sketch
 cask slack
 cask smcfancontrol
 cask sourcetree
@@ -199,7 +200,7 @@ brew ricty
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
 appstore 412448059 ForkLift (2.6.6)
-appstore 682658836 GarageBand (10.1.3)
+appstore 682658836 GarageBand (10.1.4)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.10.2)
 appstore 472226235 LanScan (4.3)
