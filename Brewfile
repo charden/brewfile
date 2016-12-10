@@ -81,6 +81,7 @@ brew gnu-tar
 brew go
 brew gobject-introspection
 brew gpp
+brew gpsbabel --with-libusb
 brew gradle
 brew gsl
 brew gtk+
@@ -132,8 +133,12 @@ brew pkg-config
 brew pngquant
 brew proj
 brew pyexiv2
+brew pyqt5
 brew python
 brew python3
+brew qscintilla2
+brew qt5
+brew qwt
 brew rbenv
 brew readline
 brew redis
@@ -146,6 +151,7 @@ brew shared-mime-info
 brew sip --with-python3
 brew sonarqube
 brew spatialindex
+brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew subversion
@@ -207,13 +213,14 @@ appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.2)
 appstore 748212890 Memory Cleaner (2.3.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27228)
+appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.6)
 appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.7.8)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 497799835 Xcode8 (8.1)
+appstore 497799835 Xcode (8.1)
 appstore 961651406 Xliffie (1.3.2)
 appstore 492068728 Yummy FTP (1.11.12)
 appstore 865500966 feedly (1.1)
