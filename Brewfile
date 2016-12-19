@@ -10,6 +10,7 @@ cask android-studio
 cask appcleaner
 cask atom
 cask bettertouchtool
+cask boostnote
 cask boot2docker
 cask clipmenu
 cask dash
