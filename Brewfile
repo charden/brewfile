@@ -23,6 +23,7 @@ cask java
 cask oclint
 cask onyx
 cask osxfuse
+cask sequel-pro
 cask sketch
 cask slack
 cask smcfancontrol
