@@ -20,6 +20,7 @@ cask google-chrome
 cask google-japanese-ime
 cask iterm2
 cask java
+cask keepassx
 cask oclint
 cask onyx
 cask osxfuse
@@ -214,7 +215,7 @@ appstore 417375580 BetterSnapTool (1.7)
 appstore 412448059 ForkLift (2.6.6)
 appstore 682658836 GarageBand (10.1.4)
 appstore 409183694 Keynote (7.0.5)
-appstore 539883307 LINE (4.11.0)
+appstore 539883307 LINE (4.11.1)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.2)
 appstore 748212890 Memory Cleaner (2.3.2)
