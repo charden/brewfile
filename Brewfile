@@ -16,6 +16,7 @@ cask clipmenu
 cask dash
 cask dropbox
 cask firefox
+cask freemind
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
