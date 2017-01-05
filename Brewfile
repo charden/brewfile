@@ -12,6 +12,7 @@ cask atom
 cask bettertouchtool
 cask boostnote
 cask boot2docker
+cask chatwork
 cask clipmenu
 cask dash
 cask dropbox
@@ -222,7 +223,7 @@ appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.11.1)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.2)
-appstore 748212890 Memory Cleaner (2.3.2)
+appstore 748212890 Memory Cleaner (2.3.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.27228)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.0.5)
