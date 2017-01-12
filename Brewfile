@@ -137,6 +137,7 @@ brew optipng
 brew pandoc
 brew pango
 brew pcre
+brew peco
 brew perl
 brew pixman
 brew pkg-config
