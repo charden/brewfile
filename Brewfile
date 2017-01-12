@@ -8,10 +8,8 @@ tap caskroom/cask
 cask alfred
 cask android-studio
 cask appcleaner
-cask atom
 cask bettertouchtool
 cask boostnote
-cask boot2docker
 cask chatwork
 cask clipmenu
 cask dash
@@ -63,6 +61,7 @@ brew cairo
 brew carthage
 brew cgal
 brew clang-format
+brew cocoapods
 brew curl
 brew dnsmasq
 brew eigen
@@ -138,7 +137,6 @@ brew optipng
 brew pandoc
 brew pango
 brew pcre
-brew peco
 brew perl
 brew pixman
 brew pkg-config
@@ -208,8 +206,6 @@ brew ruby22
 
 tap jubatus/jubatus
 
-tap peco/peco
-
 tap rcmdnk/file
 brew brew-file
 
@@ -231,7 +227,7 @@ appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.6)
 appstore 568494494 Pocket (1.6.2)
-appstore 425955336 Skitch (2.7.8)
+appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.2.1)
 appstore 961651406 Xliffie (1.3.2)
