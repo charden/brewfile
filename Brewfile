@@ -56,12 +56,14 @@ brew autoconf
 brew automake
 brew boost
 brew boost-python
+brew byobu
 brew cabal-install
 brew cairo
 brew carthage
 brew cgal
 brew clang-format
 brew cocoapods
+brew coreutils
 brew curl
 brew dnsmasq
 brew eigen
@@ -87,6 +89,7 @@ brew git
 brew git-flow
 brew glib
 brew gmp
+brew gnu-sed
 brew gnu-tar
 brew go
 brew gobject-introspection
@@ -127,6 +130,7 @@ brew lzlib
 brew mcrypt
 brew mhash
 brew mpfr
+brew newt
 brew nkf
 brew nmap
 brew node
@@ -142,6 +146,7 @@ brew perl
 brew pixman
 brew pkg-config
 brew pngquant
+brew popt
 brew proj
 brew pyexiv2
 brew pyqt5
@@ -156,6 +161,7 @@ brew redis
 brew rswift
 brew ruby
 brew ruby-build
+brew s-lang
 brew scons
 brew sfcgal
 brew shared-mime-info
