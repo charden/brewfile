@@ -32,7 +32,6 @@ cask slack
 cask smcfancontrol
 cask sourcetree
 cask sublime-text
-cask teamviewer
 cask thunderbird
 cask virtualbox
 cask visual-studio-code
