@@ -158,7 +158,6 @@ brew rbenv
 brew readline
 brew redis
 brew rswift
-brew ruby
 brew ruby-build
 brew s-lang
 brew scons
