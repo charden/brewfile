@@ -8,11 +8,13 @@ tap caskroom/cask
 cask alfred
 cask android-studio
 cask appcleaner
+cask atom
 cask bettertouchtool
 cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
+cask docker
 cask dropbox
 cask firefox
 cask freemind
@@ -32,6 +34,7 @@ cask slack
 cask smcfancontrol
 cask sourcetree
 cask sublime-text
+cask teamviewer
 cask thunderbird
 cask virtualbox
 cask visual-studio-code
@@ -55,14 +58,11 @@ brew autoconf
 brew automake
 brew boost
 brew boost-python
-brew byobu
 brew cabal-install
 brew cairo
 brew carthage
 brew cgal
 brew clang-format
-brew cocoapods
-brew coreutils
 brew curl
 brew dnsmasq
 brew eigen
@@ -88,7 +88,6 @@ brew git
 brew git-flow
 brew glib
 brew gmp
-brew gnu-sed
 brew gnu-tar
 brew go
 brew gobject-introspection
@@ -129,7 +128,6 @@ brew lzlib
 brew mcrypt
 brew mhash
 brew mpfr
-brew newt
 brew nkf
 brew nmap
 brew node
@@ -140,12 +138,10 @@ brew optipng
 brew pandoc
 brew pango
 brew pcre
-brew peco
 brew perl
 brew pixman
 brew pkg-config
 brew pngquant
-brew popt
 brew proj
 brew pyexiv2
 brew pyqt5
@@ -159,7 +155,6 @@ brew readline
 brew redis
 brew rswift
 brew ruby-build
-brew s-lang
 brew scons
 brew sfcgal
 brew shared-mime-info
@@ -220,13 +215,13 @@ brew ricty
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
 appstore 412448059 ForkLift (2.6.6)
-appstore 682658836 GarageBand (10.1.5)
+appstore 682658836 GarageBand (10.1.4)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.11.1)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.2)
 appstore 748212890 Memory Cleaner (2.3.3)
-appstore 715768417 Microsoft Remote Desktop (8.0.27246)
+appstore 715768417 Microsoft Remote Desktop (8.0.27228)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
