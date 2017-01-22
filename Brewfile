@@ -34,7 +34,6 @@ cask slack
 cask smcfancontrol
 cask sourcetree
 cask sublime-text
-cask teamviewer
 cask thunderbird
 cask virtualbox
 cask visual-studio-code
@@ -138,6 +137,7 @@ brew optipng
 brew pandoc
 brew pango
 brew pcre
+brew peco
 brew perl
 brew pixman
 brew pkg-config
@@ -154,6 +154,7 @@ brew rbenv
 brew readline
 brew redis
 brew rswift
+brew ruby
 brew ruby-build
 brew scons
 brew sfcgal
