@@ -64,10 +64,10 @@ brew cairo
 brew carthage
 brew cgal
 brew clang-format
-brew cocoapods
 brew coreutils
 brew curl
 brew dnsmasq
+brew doxygen
 brew eigen
 brew embulk
 brew exiv2
@@ -241,7 +241,7 @@ appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.2.1)
 appstore 961651406 Xliffie (1.3.2)
-appstore 492068728 Yummy FTP (1.11.13)
+appstore 492068728 Yummy FTP (1.11.14)
 appstore 865500966 feedly (1.1)
 appstore 408981434 iMovie (10.1.4)
 appstore 408981381 iPhoto (9.6.1)
