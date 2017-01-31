@@ -14,7 +14,6 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
-cask docker
 cask dropbox
 cask firefox
 cask freemind
@@ -56,6 +55,7 @@ brew apr-util
 brew atk
 brew autoconf
 brew automake
+brew awscli
 brew boost
 brew boost-python
 brew byobu
@@ -67,6 +67,7 @@ brew clang-format
 brew coreutils
 brew curl
 brew dnsmasq
+brew docker-machine
 brew doxygen
 brew eigen
 brew embulk
@@ -157,6 +158,7 @@ brew python
 brew python3
 brew qscintilla2
 brew qt5
+brew qt@5.7
 brew qwt
 brew rbenv
 brew readline
