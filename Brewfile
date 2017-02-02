@@ -119,6 +119,7 @@ brew libgeotiff
 brew liblwgeom
 brew libmpc
 brew libpng
+brew libsass
 brew libspatialite
 brew libtiff
 brew libtool
@@ -167,6 +168,7 @@ brew rswift
 brew ruby
 brew ruby-build
 brew s-lang
+brew sassc
 brew scons
 brew sfcgal
 brew shared-mime-info
