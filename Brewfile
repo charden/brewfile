@@ -14,6 +14,7 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
+cask docker
 cask dropbox
 cask firefox
 cask freemind
@@ -105,6 +106,7 @@ brew harfbuzz
 brew heroku
 brew hicolor-icon-theme
 brew highlight
+brew hugo
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -112,6 +114,7 @@ brew ios-sim
 brew isl
 brew jpeg
 brew jpegoptim
+brew jq
 brew json-c
 brew libevent
 brew libffi
@@ -131,6 +134,7 @@ brew log4cxx
 brew lsyncd
 brew lua
 brew lzlib
+brew maven
 brew mcrypt
 brew mhash
 brew mpfr
@@ -208,6 +212,7 @@ brew php-code-sniffer
 brew php70
 brew phplint
 brew phpmd
+brew wp-cli
 
 tap homebrew/python
 
@@ -219,6 +224,9 @@ tap homebrew/versions
 brew ruby22
 
 tap jubatus/jubatus
+
+tap mackerelio/mackerel-agent
+brew mkr
 
 tap rcmdnk/file
 brew brew-file
