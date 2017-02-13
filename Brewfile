@@ -14,6 +14,7 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
+cask docker
 cask dropbox
 cask firefox
 cask freemind
