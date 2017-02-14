@@ -14,7 +14,6 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
-cask docker
 cask dropbox
 cask firefox
 cask freemind
@@ -68,7 +67,6 @@ brew clang-format
 brew coreutils
 brew curl
 brew dnsmasq
-brew docker-machine
 brew doxygen
 brew eigen
 brew embulk
