@@ -15,7 +15,6 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
-cask docker
 cask dropbox
 cask firefox
 cask freemind
@@ -69,10 +68,8 @@ brew clang-format
 brew coreutils
 brew curl
 brew dnsmasq
-brew docker-machine
 brew doxygen
 brew eigen
-brew embulk
 brew exiv2
 brew expat
 brew fcgi
@@ -178,9 +175,7 @@ brew scons
 brew sfcgal
 brew shared-mime-info
 brew sip --with-python3
-brew sonarqube
 brew spatialindex
-brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew subversion
@@ -246,7 +241,7 @@ appstore 409183694 Keynote (7.0.5)
 appstore 472226235 LanScan (4.3)
 appstore 539883307 LINE (4.11.1)
 appstore 451444120 Memory Clean (6.2)
-appstore 748212890 Memory Cleaner (2.3.3)
+appstore 748212890 Memory Cleaner (2.3.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.27246)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.0.5)
