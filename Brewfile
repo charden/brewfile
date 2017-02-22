@@ -180,6 +180,7 @@ brew sqlite
 brew ssh-copy-id
 brew subversion
 brew swiftlint
+brew tig
 brew tmux
 brew tree
 brew unixodbc
