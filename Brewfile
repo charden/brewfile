@@ -48,6 +48,7 @@ tap homebrew/boneyard
 brew unfs3
 
 tap homebrew/core
+brew ack
 brew android-sdk
 brew ansible
 brew ant
