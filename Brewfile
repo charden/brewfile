@@ -15,6 +15,7 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
+cask docker
 cask dropbox
 cask firefox
 cask freemind
@@ -69,8 +70,10 @@ brew clang-format
 brew coreutils
 brew curl
 brew dnsmasq
+brew docker-machine
 brew doxygen
 brew eigen
+brew embulk
 brew exiv2
 brew expat
 brew fcgi
@@ -176,7 +179,9 @@ brew scons
 brew sfcgal
 brew shared-mime-info
 brew sip --with-python3
+brew sonarqube
 brew spatialindex
+brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew subversion
