@@ -15,8 +15,6 @@ cask boostnote
 cask chatwork
 cask clipmenu
 cask dash
-cask docker
-cask dropbox
 cask firefox
 cask freemind
 cask google-chrome
@@ -173,6 +171,7 @@ brew redis
 brew rswift
 brew ruby
 brew ruby-build
+brew ruby@2.2
 brew s-lang
 brew sassc
 brew scons
@@ -224,7 +223,6 @@ tap homebrew/science
 tap homebrew/services
 
 tap homebrew/versions
-brew ruby22
 
 tap jubatus/jubatus
 
@@ -249,7 +247,7 @@ appstore 472226235 LanScan (4.3)
 appstore 539883307 LINE (4.12.1)
 appstore 451444120 Memory Clean (6.2)
 appstore 748212890 Memory Cleaner (2.3.4)
-appstore 715768417 Microsoft Remote Desktop (8.0.27246)
+appstore 715768417 Microsoft Remote Desktop (8.0.27253)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
@@ -258,5 +256,5 @@ appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.2.1)
-appstore 961651406 Xliffie (1.3.2)
+appstore 961651406 Xliffie (1.4.0)
 appstore 492068728 Yummy FTP (1.11.14)
