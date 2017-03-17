@@ -13,7 +13,6 @@ cask atom
 cask bettertouchtool
 cask boostnote
 cask chatwork
-cask clipmenu
 cask dash
 cask firefox
 cask freemind
@@ -68,6 +67,7 @@ brew clang-format
 brew coreutils
 brew curl
 brew dnsmasq
+brew docker
 brew docker-machine
 brew doxygen
 brew eigen
@@ -234,6 +234,11 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask clipmenu (!)
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
