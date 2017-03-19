@@ -14,8 +14,11 @@ cask bettertouchtool
 cask boostnote
 cask chatwork
 cask dash
+cask docker
+cask dropbox
 cask firefox
 cask freemind
+cask genymotion
 cask google-chrome
 cask google-japanese-ime
 cask hosts
@@ -35,6 +38,7 @@ cask sublime-text
 cask thunderbird
 cask virtualbox
 cask visual-studio-code
+cask visual-studio
 cask xquartz
 cask zeplin
 
