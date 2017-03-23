@@ -18,6 +18,7 @@ cask dash
 cask dropbox
 cask firefox
 cask freemind
+cask genymotion
 cask google-chrome
 cask google-japanese-ime
 cask hosts
