@@ -197,6 +197,7 @@ brew tree
 brew unixodbc
 brew utf8proc
 brew vim
+brew visitors
 brew watch
 brew watchman
 brew wget
