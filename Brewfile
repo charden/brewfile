@@ -34,6 +34,7 @@ cask sketch
 cask slack
 cask smcfancontrol
 cask sourcetree
+cask sqlitebrowser
 cask sublime-text
 cask thunderbird
 cask vagrant
