@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask android-file-transfer
+cask android-sdk
 cask android-studio
 cask appcleaner
 cask atom
@@ -53,7 +54,6 @@ brew unfs3
 
 tap homebrew/core
 brew ack
-brew android-sdk
 brew ansible
 brew ant
 brew apr
@@ -107,6 +107,7 @@ brew gobject-introspection
 brew gpp
 brew gpsbabel --with-libusb
 brew gradle
+brew graphicsmagick
 brew gsl
 brew gtk+
 brew harfbuzz
@@ -164,6 +165,7 @@ brew pkg-config
 brew pngquant
 brew popt
 brew proj
+brew protobuf
 brew pyexiv2
 brew pyqt5
 brew python
@@ -175,6 +177,7 @@ brew qwt
 brew rbenv
 brew readline
 brew redis
+brew rethinkdb
 brew rswift
 brew ruby
 brew ruby-build
@@ -206,6 +209,8 @@ brew wxmac
 brew wxpython
 brew xctool
 brew xz
+brew yasm
+brew zeromq
 brew zsh --without-etcdir
 
 tap homebrew/dupes
@@ -263,5 +268,5 @@ appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.2.1)
-appstore 961651406 Xliffie (1.4.1)
+appstore 961651406 Xliffie (1.4.2)
 appstore 492068728 Yummy FTP (1.11.14)
