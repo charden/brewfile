@@ -50,7 +50,6 @@ tap codekitchen/dinghy
 tap homebrew/binary
 
 tap homebrew/boneyard
-brew unfs3
 
 tap homebrew/core
 brew ack
