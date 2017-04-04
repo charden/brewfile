@@ -46,6 +46,7 @@ cask xquartz
 cask zeplin
 
 tap codekitchen/dinghy
+brew unfs3
 
 tap homebrew/binary
 
@@ -126,6 +127,7 @@ brew json-c
 brew libevent
 brew libffi
 brew libgeotiff
+brew libiconv
 brew liblwgeom
 brew libmpc
 brew libpng
@@ -178,6 +180,7 @@ brew readline
 brew redis
 brew rethinkdb
 brew rswift
+brew rsync
 brew ruby
 brew ruby-build
 brew ruby@2.2
@@ -210,12 +213,10 @@ brew xctool
 brew xz
 brew yasm
 brew zeromq
+brew zlib
 brew zsh --without-etcdir
 
 tap homebrew/dupes
-brew libiconv
-brew rsync
-brew zlib
 
 tap homebrew/fuse
 brew sshfs
