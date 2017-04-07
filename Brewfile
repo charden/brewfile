@@ -23,6 +23,7 @@ cask genymotion
 cask google-chrome
 cask google-japanese-ime
 cask hosts
+cask hyperswitch
 cask iterm2
 cask java
 cask keepassx
@@ -168,11 +169,11 @@ brew popt
 brew proj
 brew protobuf
 brew pyexiv2
-brew pyqt5
+brew pyqt
 brew python
 brew python3
 brew qscintilla2
-brew qt5
+brew qt
 brew qt@5.7
 brew qwt
 brew rbenv
