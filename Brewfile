@@ -196,6 +196,7 @@ brew spatialindex
 brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
+brew sshfs
 brew subversion
 brew swiftlint
 brew tig
@@ -220,7 +221,6 @@ brew zsh --without-etcdir
 tap homebrew/dupes
 
 tap homebrew/fuse
-brew sshfs
 
 tap homebrew/php
 brew composer
@@ -268,6 +268,6 @@ appstore 407963104 Pixelmator (3.6)
 appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 497799835 Xcode (8.3.1)
+appstore 497799835 Xcode (8.3.2)
 appstore 961651406 Xliffie (1.4.2)
 appstore 492068728 Yummy FTP (1.11.14)
