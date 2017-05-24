@@ -72,6 +72,7 @@ brew cairo
 brew carthage
 brew cgal
 brew clang-format
+brew cmake
 brew coreutils
 brew curl
 brew dnsmasq
@@ -260,7 +261,7 @@ appstore 409183694 Keynote (7.1.1)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.2)
 appstore 748212890 Memory Cleaner (2.3.5)
-appstore 715768417 Microsoft Remote Desktop (8.0.27253)
+appstore 715768417 Microsoft Remote Desktop (8.0.27287)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.1.1)
 appstore 409201541 Pages (6.1.1)
