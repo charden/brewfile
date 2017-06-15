@@ -110,6 +110,7 @@ brew gpp
 brew gpsbabel --with-libusb
 brew gradle
 brew graphicsmagick
+brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
@@ -257,14 +258,14 @@ appstore 412448059 ForkLift (2.6.6)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.6)
 appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (7.1.1)
+appstore 409183694 Keynote (7.2)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.2)
 appstore 748212890 Memory Cleaner (2.4)
-appstore 715768417 Microsoft Remote Desktop (8.0.27287)
+appstore 715768417 Microsoft Remote Desktop (8.0.27310)
 appstore 428834068 Night Owl (2.85)
-appstore 409203825 Numbers (4.1.1)
-appstore 409201541 Pages (6.1.1)
+appstore 409203825 Numbers (4.2)
+appstore 409201541 Pages (6.2)
 appstore 407963104 Pixelmator (3.6)
 appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.8)
