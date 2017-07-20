@@ -100,6 +100,7 @@ brew gibo
 brew giflib
 brew git
 brew git-flow
+brew gitlab-ci-multi-runner
 brew glib
 brew gmp
 brew gnu-sed
@@ -192,7 +193,7 @@ brew sassc
 brew scons
 brew sfcgal
 brew shared-mime-info
-brew sip --with-python3
+brew sip
 brew sonarqube
 brew spatialindex
 brew sphinx-doc
@@ -262,7 +263,7 @@ appstore 409183694 Keynote (7.2)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.3)
 appstore 748212890 Memory Cleaner (2.4)
-appstore 715768417 Microsoft Remote Desktop (8.0.27310)
+appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
