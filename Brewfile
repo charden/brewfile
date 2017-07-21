@@ -12,14 +12,11 @@ cask android-studio
 cask appcleaner
 cask atom
 cask bettertouchtool
-cask boostnote
 cask chatwork
 cask clipy
 cask dash
-cask dropbox
 cask firefox
 cask freemind
-cask genymotion
 cask google-chrome
 cask google-japanese-ime
 cask hosts
@@ -38,10 +35,8 @@ cask smcfancontrol
 cask sourcetree
 cask sqlitebrowser
 cask sublime-text
-cask thunderbird
 cask vagrant
 cask virtualbox
-cask visual-studio-code
 cask visual-studio
 cask xquartz
 cask zeplin
@@ -62,7 +57,6 @@ brew apr-util
 brew atk
 brew autoconf
 brew automake
-brew awscli
 brew boost
 brew boost-python
 brew bower
@@ -80,7 +74,6 @@ brew docker
 brew docker-machine
 brew doxygen
 brew eigen
-brew embulk
 brew exiv2
 brew expat
 brew fcgi
@@ -100,7 +93,6 @@ brew gibo
 brew giflib
 brew git
 brew git-flow
-brew gitlab-ci-multi-runner
 brew glib
 brew gmp
 brew gnu-sed
@@ -115,7 +107,6 @@ brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
-brew heroku
 brew hicolor-icon-theme
 brew highlight
 brew hugo
@@ -196,11 +187,9 @@ brew shared-mime-info
 brew sip
 brew sonarqube
 brew spatialindex
-brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew sshfs
-brew subversion
 brew swiftlint
 brew tig
 brew tmux
