@@ -10,7 +10,6 @@ cask android-file-transfer
 cask android-sdk
 cask android-studio
 cask appcleaner
-cask atom
 cask bettertouchtool
 cask chatwork
 cask clipy
