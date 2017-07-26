@@ -15,7 +15,6 @@ cask chatwork
 cask clipy
 cask dash
 cask firefox
-cask freemind
 cask google-chrome
 cask google-japanese-ime
 cask hosts
@@ -36,7 +35,6 @@ cask sqlitebrowser
 cask sublime-text
 cask vagrant
 cask virtualbox
-cask visual-studio
 cask xquartz
 cask zeplin
 
@@ -184,7 +182,6 @@ brew scons
 brew sfcgal
 brew shared-mime-info
 brew sip
-brew sonarqube
 brew spatialindex
 brew sqlite
 brew ssh-copy-id
@@ -228,8 +225,6 @@ tap homebrew/science
 tap homebrew/services
 
 tap homebrew/versions
-
-tap jubatus/jubatus
 
 tap mackerelio/mackerel-agent
 brew mkr
