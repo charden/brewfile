@@ -86,6 +86,8 @@ brew gdk-pixbuf
 brew geos
 brew gettext
 brew ghc
+brew ghc@8.0
+brew ghq
 brew gibo
 brew giflib
 brew git
