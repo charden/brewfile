@@ -96,6 +96,7 @@ brew cairo
 brew wxpython
 brew ilmbase
 brew libxslt
+brew protobuf
 brew boost-python
 brew exiv2
 brew rsync
@@ -189,7 +190,7 @@ brew coreutils
 brew cgal
 brew tig
 brew node
-brew protobuf
+brew little-cms2
 brew unixodbc
 brew graphicsmagick
 brew libtool
@@ -239,6 +240,7 @@ brew ricty
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
+appstore 748212890 Cleaner for Memory (2.4.1)
 appstore 865500966 feedly (1.1)
 appstore 412448059 ForkLift (2.6.6)
 appstore 682658836 GarageBand (10.2.0)
@@ -247,7 +249,6 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.2)
 appstore 472226235 LanScan (4.3)
 appstore 451444120 Memory Clean (6.3)
-appstore 748212890 Memory Cleaner (2.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.2)
