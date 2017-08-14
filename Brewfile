@@ -240,7 +240,7 @@ brew ricty
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
-appstore 748212890 Cleaner for Memory (2.4.1)
+appstore 748212890 Cleaner for Memory (2.4.2)
 appstore 865500966 feedly (1.1)
 appstore 412448059 ForkLift (2.6.6)
 appstore 682658836 GarageBand (10.2.0)
