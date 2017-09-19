@@ -36,6 +36,8 @@ cask virtualbox
 cask xquartz
 cask zeplin
 
+tap caskroom/versions
+
 tap codekitchen/dinghy
 brew unfs3
 
@@ -254,7 +256,7 @@ appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
 appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.8)
-appstore 425424353 The Unarchiver (3.11.2)
+appstore 425424353 The Unarchiver (3.11.3)
 appstore 497799835 Xcode (8.3.3)
 appstore 961651406 Xliffie (1.4.2)
 appstore 492068728 Yummy FTP (1.11.14)
