@@ -149,6 +149,7 @@ brew scons
 brew sfcgal
 brew shared-mime-info
 brew sip
+brew sonarqube
 brew spatialindex
 brew sqlite
 brew ssh-copy-id
@@ -252,11 +253,12 @@ appstore 1037126344 Apple Configurator 2 (2.5)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 865500966 feedly (1.1)
 appstore 412448059 ForkLift (2.6.6)
+appstore 0 Install macOS High Sierra (13.1.05)
 appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (7.3)
+appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (4.3)
-appstore 409201541 Pages (6.3)
+appstore 409203825 Numbers (4.3.1)
+appstore 409201541 Pages (6.3.1)
 appstore 568494494 Pocket (1.6.2)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.3)
