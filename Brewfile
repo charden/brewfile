@@ -11,19 +11,16 @@ brew atk
 brew autoconf
 brew automake
 brew boost
-brew boost-python
 brew bower
 brew byobu
-brew cabal-install
 brew cairo
 brew carthage
-brew cgal
 brew clang-format
-brew cmake
 brew coreutils
 brew curl
 brew dnsmasq
 brew docker
+brew docker-compose
 brew docker-machine
 brew doxygen
 brew eigen
@@ -36,13 +33,12 @@ brew fontconfig
 brew fontforge
 brew freetype
 brew freexl
+brew fswatch
 brew gcc
 brew gdbm
 brew gdk-pixbuf
 brew geos
 brew gettext
-brew ghc
-brew ghc@8.0
 brew ghq
 brew gibo
 brew giflib
@@ -56,29 +52,25 @@ brew gnutls
 brew go
 brew gobject-introspection
 brew gpp
-brew gpsbabel --with-libusb
 brew gradle
-brew graphicsmagick
 brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
-brew highlight
-brew hugo
 brew icu4c
 brew ilmbase
 brew imagemagick
 brew ios-sim
 brew isl
 brew jpeg
-brew jpegoptim
 brew jq
 brew json-c
 brew libevent
 brew libffi
 brew libgeotiff
 brew libiconv
+brew libidn2
 brew liblwgeom
 brew libmpc
 brew libpng
@@ -114,26 +106,18 @@ brew openssl
 brew openssl@1.1
 brew optipng
 brew p11-kit
-brew pandoc
 brew pango
 brew pcre
 brew peco
 brew perl
 brew pixman
 brew pkg-config
-brew pngquant
 brew popt
 brew proj
-brew protobuf
-brew pyexiv2
-brew pyqt
 brew python
 brew python3
 brew qemu
-brew qscintilla2
-brew qt
 brew qt@5.7
-brew qwt
 brew rbenv
 brew readline
 brew redis
@@ -146,14 +130,11 @@ brew ruby@2.2
 brew s-lang
 brew sassc
 brew scons
-brew sfcgal
 brew shared-mime-info
 brew sip
-brew sonarqube
 brew spatialindex
 brew sqlite
 brew ssh-copy-id
-brew sshfs
 brew swiftlint
 brew tig
 brew tmux
@@ -199,34 +180,34 @@ tap homebrew/services
 tap homebrew/versions
 
 tap caskroom/cask
-cask alfred
-cask android-file-transfer
-cask android-sdk
-cask android-studio
-cask appcleaner
-cask bettertouchtool
-cask chatwork
-cask clipy
-cask dash
-cask firefox
-cask google-chrome
-cask google-japanese-ime
-cask hosts
-cask hyperswitch
-cask iterm2
-cask java
-cask keepassx
-cask oclint
-cask onyx
-cask osxfuse
-cask sequel-pro
 cask slack
-cask smcfancontrol
-cask sourcetree
-cask sublime-text
-cask vagrant
 cask virtualbox
+cask appcleaner
+cask osxfuse
+cask smcfancontrol
+cask android-sdk
+cask android-file-transfer
+cask iterm2
+cask chatwork
+cask hosts
+cask oclint
+cask dash
+cask vagrant
+cask clipy
+cask sublime-text
+cask android-studio
+cask onyx
+cask sequel-pro
+cask firefox
+cask hyperswitch
+cask keepassx
+cask google-chrome
 cask xquartz
+cask google-japanese-ime
+cask java
+cask sourcetree
+cask alfred
+cask bettertouchtool
 cask zeplin
 
 tap caskroom/versions
@@ -249,21 +230,26 @@ brew ricty
 cask sqlitebrowser
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.5)
+appstore 1037126344 Apple Configurator 2 (2.6.1)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 865500966 feedly (1.1)
 appstore 412448059 ForkLift (2.6.6)
-appstore 0 Install macOS High Sierra (13.1.05)
+appstore 682658836 GarageBand (10.2.0)
+appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.3.1)
 appstore 896624060 Kobito (2.3.8)
+appstore 472226235 LanScan (4.3.2)
+appstore 539883307 LINE (5.5.1)
+appstore 748212890 Memory Cleaner (2.4.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
-appstore 568494494 Pocket (1.6.2)
+appstore 407963104 Pixelmator (3.7)
+appstore 568494494 Pocket (1.6.6)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 497799835 Xcode (9.2)
-appstore 497799835 Xcode8 (8.3.3)
 appstore 961651406 Xliffie (1.4.2)
 appstore 492068728 Yummy FTP (1.11.14)
