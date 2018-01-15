@@ -11,11 +11,13 @@ brew atk
 brew autoconf
 brew automake
 brew boost
+brew boost-python
 brew bower
 brew byobu
 brew cairo
 brew carthage
 brew clang-format
+brew cmake
 brew coreutils
 brew curl
 brew dnsmasq
@@ -52,12 +54,14 @@ brew gnutls
 brew go
 brew gobject-introspection
 brew gpp
+brew gpsbabel --with-libusb
 brew gradle
 brew graphite2
 brew gsl
 brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
+brew hugo
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -94,6 +98,7 @@ brew maven
 brew mcrypt
 brew mhash
 brew mpfr
+brew mysql
 brew ncurses
 brew nettle
 brew newt
@@ -106,17 +111,22 @@ brew openssl
 brew openssl@1.1
 brew optipng
 brew p11-kit
+brew pandoc
 brew pango
 brew pcre
 brew peco
+brew percona-toolkit
 brew perl
 brew pixman
 brew pkg-config
 brew popt
 brew proj
+brew protobuf
+brew pyqt
 brew python
 brew python3
 brew qemu
+brew qt
 brew qt@5.7
 brew rbenv
 brew readline
@@ -132,6 +142,7 @@ brew sassc
 brew scons
 brew shared-mime-info
 brew sip
+brew sonarqube
 brew spatialindex
 brew sqlite
 brew ssh-copy-id
@@ -251,5 +262,6 @@ appstore 568494494 Pocket (1.6.6)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode8 (8.3.3)
 appstore 961651406 Xliffie (1.4.2)
 appstore 492068728 Yummy FTP (1.11.14)
