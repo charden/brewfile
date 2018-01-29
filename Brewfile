@@ -192,12 +192,14 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask slack
+cask sketch
 cask virtualbox
 cask appcleaner
 cask osxfuse
 cask smcfancontrol
 cask android-sdk
 cask android-file-transfer
+cask sketch-toolbox
 cask iterm2
 cask chatwork
 cask hosts
@@ -258,7 +260,7 @@ appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 407963104 Pixelmator (3.7)
-appstore 568494494 Pocket (1.6.6)
+appstore 568494494 Pocket (1.6.7)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 497799835 Xcode (9.2)
