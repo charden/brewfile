@@ -127,7 +127,6 @@ brew python
 brew python3
 brew qemu
 brew qt
-brew qt@5.7
 brew rbenv
 brew readline
 brew redis
@@ -239,6 +238,9 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
+# Other Homebrew packages
+brew qt@5.7
+
 # Cask applications
 cask sqlitebrowser
 
@@ -260,7 +262,7 @@ appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 407963104 Pixelmator (3.7)
-appstore 568494494 Pocket (1.6.9)
+appstore 568494494 Pocket (1.7)
 appstore 425955336 Skitch (2.8)
 appstore 425424353 The Unarchiver (3.11.3)
 appstore 497799835 Xcode (9.2)
