@@ -20,6 +20,7 @@ brew clang-format
 brew cmake
 brew coreutils
 brew curl
+brew dep
 brew dnsmasq
 brew docker
 brew docker-compose
