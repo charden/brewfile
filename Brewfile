@@ -125,7 +125,7 @@ brew proj
 brew protobuf
 brew pyqt
 brew python
-brew python3
+brew python@2
 brew qemu
 brew qt
 brew rbenv
