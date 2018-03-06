@@ -27,6 +27,7 @@ brew docker-compose
 brew docker-machine
 brew doxygen
 brew eigen
+brew embulk
 brew exiv2
 brew expat
 brew fcgi
