@@ -160,6 +160,7 @@ brew visitors
 brew watch
 brew watchman
 brew wget
+brew wp-cli
 brew wxmac
 brew wxpython
 brew xctool
@@ -183,7 +184,6 @@ brew php-code-sniffer
 brew php70
 brew phplint
 brew phpmd
-brew wp-cli
 
 tap homebrew/python
 
@@ -194,36 +194,36 @@ tap homebrew/services
 tap homebrew/versions
 
 tap caskroom/cask
-cask slack
-cask sketch
-cask virtualbox
-cask appcleaner
-cask osxfuse
-cask smcfancontrol
-cask android-sdk
-cask android-file-transfer
-cask sketch-toolbox
-cask iterm2
-cask chatwork
-cask hosts
-cask oclint
-cask dash
-cask vagrant
-cask clipy
-cask sublime-text
-cask android-studio
-cask onyx
-cask sequel-pro
-cask firefox
-cask hyperswitch
-cask keepassx
-cask google-chrome
-cask xquartz
-cask google-japanese-ime
-cask java
-cask sourcetree
 cask alfred
+cask android-file-transfer
+cask android-sdk
+cask android-studio
+cask appcleaner
 cask bettertouchtool
+cask chatwork
+cask clipy
+cask dash
+cask firefox
+cask google-chrome
+cask google-japanese-ime
+cask hosts
+cask hyperswitch
+cask iterm2
+cask java
+cask keepassx
+cask oclint
+cask onyx
+cask osxfuse
+cask sequel-pro
+cask sketch
+cask sketch-toolbox
+cask slack
+cask smcfancontrol
+cask sourcetree
+cask sublime-text
+cask vagrant
+cask virtualbox
+cask xquartz
 cask zeplin
 
 tap caskroom/versions
@@ -259,8 +259,10 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.3.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 472226235 LanScan (5.0)
+appstore 539883307 LINE (5.6.1)
 appstore 748212890 Memory Cleaner (2.4.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 428834068 Night Owl (2.85)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 407963104 Pixelmator (3.7)
@@ -270,4 +272,4 @@ appstore 425424353 The Unarchiver (3.11.3)
 appstore 497799835 Xcode (9.2)
 appstore 497799835 Xcode8 (8.3.3)
 appstore 961651406 Xliffie (1.4.2)
-appstore 492068728 Yummy FTP (1.11.14)
+appstore 492068728 Yummy FTP (1.11.15)
