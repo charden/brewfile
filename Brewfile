@@ -18,6 +18,7 @@ brew cairo
 brew carthage
 brew clang-format
 brew cmake
+brew composer
 brew coreutils
 brew curl
 brew dep
@@ -179,7 +180,6 @@ tap homebrew/dupes
 tap homebrew/fuse
 
 tap homebrew/php
-brew composer
 brew php-code-sniffer
 brew php70
 brew phplint
@@ -206,7 +206,6 @@ cask dash
 cask firefox
 cask google-chrome
 cask google-japanese-ime
-cask hosts
 cask hyperswitch
 cask iterm2
 cask java
@@ -246,6 +245,7 @@ brew ricty
 brew qt@5.7
 
 # Other Cask applications
+cask hosts
 cask sqlitebrowser
 
 # App Store applications
@@ -256,19 +256,19 @@ appstore 412448059 ForkLift (2.6.6)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (7.3.1)
+appstore 409183694 Keynote (8.0)
 appstore 896624060 Kobito (2.3.8)
 appstore 472226235 LanScan (5.0)
 appstore 539883307 LINE (5.6.1)
 appstore 748212890 Memory Cleaner (2.4.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 428834068 Night Owl (2.85)
-appstore 409203825 Numbers (4.3.1)
-appstore 409201541 Pages (6.3.1)
+appstore 409203825 Numbers (5.0)
+appstore 409201541 Pages (7.0)
 appstore 407963104 Pixelmator (3.7)
 appstore 568494494 Pocket (1.7.1)
 appstore 425955336 Skitch (2.8.1)
-appstore 425424353 The Unarchiver (3.11.3)
+appstore 425424353 The Unarchiver (3.11.5)
 appstore 497799835 Xcode (9.2)
 appstore 497799835 Xcode8 (8.3.3)
 appstore 961651406 Xliffie (1.4.2)
