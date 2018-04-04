@@ -7,6 +7,7 @@ brew ansible
 brew ant
 brew apr
 brew apr-util
+brew aspell
 brew atk
 brew autoconf
 brew automake
@@ -36,6 +37,7 @@ brew fftw
 brew flow
 brew fontconfig
 brew fontforge
+brew freetds
 brew freetype
 brew freexl
 brew fribidi
@@ -82,6 +84,7 @@ brew libidn2
 brew liblwgeom
 brew libmpc
 brew libpng
+brew libpq
 brew libsass
 brew libspatialite
 brew libtasn1
@@ -92,6 +95,7 @@ brew libusb
 brew libxml2
 brew libxslt
 brew libyaml
+brew libzip
 brew little-cms2
 brew log4cxx
 brew lsyncd
@@ -121,6 +125,8 @@ brew pcre
 brew peco
 brew percona-toolkit
 brew perl
+brew php-code-sniffer
+brew php@7.0
 brew pixman
 brew pkg-config
 brew popt
@@ -145,6 +151,7 @@ brew sassc
 brew scons
 brew shared-mime-info
 brew sip
+brew sonar-scanner
 brew sonarqube
 brew spatialindex
 brew sphinx-doc
@@ -160,6 +167,7 @@ brew vim
 brew visitors
 brew watch
 brew watchman
+brew webp
 brew wget
 brew wp-cli
 brew wxmac
@@ -180,8 +188,6 @@ tap homebrew/dupes
 tap homebrew/fuse
 
 tap homebrew/php
-brew php-code-sniffer
-brew php70
 brew phplint
 brew phpmd
 
@@ -249,7 +255,7 @@ cask hosts
 cask sqlitebrowser
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.6.1)
+appstore 1037126344 Apple Configurator 2 (2.7)
 appstore 417375580 BetterSnapTool (1.8)
 appstore 865500966 feedly (1.1)
 appstore 412448059 ForkLift (2.6.6)
@@ -259,7 +265,7 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (8.0)
 appstore 896624060 Kobito (2.3.8)
 appstore 472226235 LanScan (5.0)
-appstore 539883307 LINE (5.6.1)
+appstore 539883307 LINE (5.7.0)
 appstore 748212890 Memory Cleaner (2.4.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 428834068 Night Owl (2.85)
@@ -269,7 +275,7 @@ appstore 407963104 Pixelmator (3.7)
 appstore 568494494 Pocket (1.7.1)
 appstore 425955336 Skitch (2.8.1)
 appstore 425424353 The Unarchiver (3.11.5)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode (9.3)
 appstore 497799835 Xcode8 (8.3.3)
 appstore 961651406 Xliffie (1.4.2)
 appstore 492068728 Yummy FTP (1.11.15)
