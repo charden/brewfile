@@ -158,6 +158,7 @@ brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew swiftlint
+brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
@@ -188,8 +189,6 @@ tap homebrew/dupes
 tap homebrew/fuse
 
 tap homebrew/php
-brew phplint
-brew phpmd
 
 tap homebrew/python
 
@@ -248,6 +247,7 @@ tap sanemat/font
 brew ricty
 
 # Other Homebrew packages
+brew phplint
 brew qt@5.7
 
 # Other Cask applications
